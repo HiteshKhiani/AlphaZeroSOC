@@ -1,0 +1,1 @@
+In checkpoint 1, I concentrated on learning the basics of Python, covering functions, syntax, and core concepts. While going through the process of learning syntax, I uploaded a Python file showcasing my understanding of these topics. Besides Python, the Notion page provided by the mentor included valuable resources for gaining an introduction to AI and machine learning.
